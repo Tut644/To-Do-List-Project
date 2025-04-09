@@ -42,7 +42,7 @@ def main():
         choice = input("Enter your choice (1-4): ")
 
         if choice == "1":
-            addTask()    # Call add task function
+            addTask()    # this calls add task function
         elif choice == "2":
             listTasks()    # Call list tasks function
         elif choice == "3":
